@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NBAapp</string>
+    <string name="update_success">更新成功</string>
+    <string name="update_failed">更新失败</string>
+    <string name="file_name">2017敏捷作业-NBA数据.csv</string>
+    <string name="loading_title">数据加载中</string>
+    <string name="loading_message">Loading...</string>
+
+    <string name="season">赛季</string>
+    <string name="league">联盟</string>
+    <string name="team">球队</string>
+    <string name="game_num">出场数</string>
+    <string name="points">总分</string>
+    <string name="ppg">场均</string>
+
+    <string name="games">总场数</string>
+    <string name="wins">胜场数</string>
+    <string name="loses">负场数</string>
+    <string name="player_name">球员</string>
+    <string name="title_activity_stat2_">Stat2_Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
